@@ -1,7 +1,7 @@
 # Image captioning telegram bot 
 
 ### Description
-
+google colab: https://drive.google.com/file/d/1SM1XmjQ83ZdroNAb4RRfTqm_Ko6XeIUW/view?usp=drive_link
 Image captioning - this is the task of generating a text description for an image. 
 Convolutional CNN neural network models work best with images, and recurrent RNN (or LSTM) models work best with text. 
 Therefore, to create a model, it is necessary to combine both of these approaches.
