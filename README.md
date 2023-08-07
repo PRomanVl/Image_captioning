@@ -8,7 +8,7 @@ Therefore, to create a model, it is necessary to combine both of these approache
 
 The first model will take an image and produce a vector representation, the second model will take it and generate text.
 
-![Architecture](https://github.com/PRomanVl/deep_learning_school/blob/main/Image_captionong/img/model.png)
+![model](https://github.com/PRomanVl/Image_captioning/assets/96573887/d2d8c82a-5fe1-4055-9cfc-44538da6183d)
 
 
 
@@ -34,4 +34,10 @@ The first model will take an image and produce a vector representation, the seco
 - 4 Bot gives to the user predicted description
 - 5 Deletes the image
 
+### Example:
+Input:
+![EVNyHHNRAbY](https://github.com/PRomanVl/Image_captioning/assets/96573887/eb616a29-eb67-4c38-9365-c325e79e5f0b)
+
+Output:
+a woman is holding a refrigerator door open .
 
