@@ -36,7 +36,8 @@ The first model will take an image and produce a vector representation, the seco
 
 ### Example:
 Input:
-![EVNyHHNRAbY](https://github.com/PRomanVl/Image_captioning/assets/96573887/eb616a29-eb67-4c38-9365-c325e79e5f0b)
+![photo_2023-08-07_16-32-52](https://github.com/PRomanVl/Image_captioning/assets/96573887/7acfc772-b69b-4509-bc21-7cf49be2768b)
+
 
 Output:
 a woman is holding a refrigerator door open .
